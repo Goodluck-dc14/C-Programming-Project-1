@@ -23,3 +23,4 @@ int main(void)
 	printf("Factorial of %d is %d\n", num, factorial(num));
 	return (0);
 }
+
